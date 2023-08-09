@@ -18,6 +18,7 @@ public class Guia1Clase3Repositoriosiii {
         // TODO code application logic here
         
         System.out.println("hola soy Diego...!!!");
+        System.out.println("hola hola hola");
         
     }
     

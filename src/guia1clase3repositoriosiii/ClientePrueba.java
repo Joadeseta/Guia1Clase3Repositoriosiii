@@ -10,5 +10,6 @@ package guia1clase3repositoriosiii;
  * @author Admin
  */
 public class ClientePrueba {
-    private Sring nombre;
+   
 }
+
